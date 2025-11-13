@@ -23,7 +23,7 @@
 	<p align="center">
 		This is the source code for my Personal Portfolio.
 		<br/>
-		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io"><strong>Explore the docs »</strong></a>
+		<a href="https://github.com/Jkagunda-tech.github.io"><strong>Explore the docs »</strong></a>
 		<br/>
 		<br/>
 		<a href="">View Demo</a>
