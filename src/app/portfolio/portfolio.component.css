@@ -1,0 +1,79 @@
+
+/* Portfolio Grid Spacing (affects project card layout) */
+.spacing {
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+/* Portfolio Section Title (affects section heading) */
+.txt-bg-portfolio::before {
+	content: "My Portfolio";
+}
+
+/* Portfolio Item Box (affects card layout and hover) */
+.item-box {
+	position: relative;
+	overflow: hidden;
+	display: block;
+	border-radius: 5px;
+}
+.item-box:hover .item-mask,
+.item-box:focus .item-mask {
+	transform: translateX(0);
+	visibility: visible;
+}
+.item-box:hover .item-mask .item-caption,
+.item-box:focus .item-mask .item-caption {
+	opacity: 1;
+}
+.item-box:hover .item-container,
+.item-box:focus .item-container {
+	transform: translateX(100%);
+	transition: all .5s ease-in-out 0s;
+	width: 100%;
+}
+
+/* Portfolio Item Image (affects project image display) */
+.item-container {
+	transform: translateX(0);
+	width: 100%;
+	transition: all .5s ease-in-out 0s;
+}
+
+/* Portfolio Item Mask (affects overlay and caption) */
+.item-mask {
+	background: #242a35;
+	position: absolute;
+	transition: all .5s ease-in-out 0s;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	visibility: hidden;
+	overflow: hidden;
+	transform: translateX(-100%);
+}
+.item-mask p {
+	font-size: 13px;
+	letter-spacing: 2px;
+	font-weight: 500;
+	margin: 0;
+	color: #fff;
+}
+.item-mask .item-caption {
+	position: absolute;
+	bottom: 50%;
+	transform: translateY(50%);
+	left: 0;
+	right: 0;
+	padding-left: 30px;
+	padding-right: 30px;
+	transition: all .5s ease-in-out 0s;
+	opacity: 0;
+}
+
+@media (min-width:200px) and (max-width:768px) {
+	.txt-bg-portfolio::before {
+		font-size: 45px;
+	}
+}

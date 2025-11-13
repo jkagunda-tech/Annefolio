@@ -1,0 +1,27 @@
+
+/* Contact Section Wrapper (affects background and text color) */
+.contact-wrapper {
+	color: #cacaca;
+	background: #242a35;
+}
+
+/* Contact Section Title (affects section heading) */
+.txt-bg-contact::before {
+	content: "Contact Me";
+}
+
+/* Contact Links (affects email, phone, etc.) */
+.contact-links {
+	color: #fff;
+	font-size: 16px;
+}
+
+.line-height-normal {
+	line-height: 90%;
+}
+
+@media (min-width:200px) and (max-width:768px) {
+	.txt-bg-contact::before {
+		padding-top: 15px;
+	}
+}
