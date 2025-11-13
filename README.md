@@ -21,7 +21,7 @@
 	</a>
 	<h3 align="center">Nduta Kimani's Personal Portfolio</h3>
 	<p align="center">
-		This is the source code for my Personal Portfolio.
+		This is the source code for a Personal Portfolio.
 		<br/>
 		<a href="https://github.com/Jkagunda-tech.github.io"><strong>Explore the docs »</strong></a>
 		<br/>
