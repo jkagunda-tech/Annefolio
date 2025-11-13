@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	<a href="https://JKagunda-.github.iotech/">JayantGoel001.github.io</a> - v2.0
+	<a href="https://JKagunda-.github.iotech/">Jkagunda-tech.github.io</a> - v2.0
 	<p align="center">
 		<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
 		<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
@@ -19,29 +19,14 @@
 	
 		<img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
 	</a>
-	<h3 align="center">Jayant Goel (JayantGoel001)'s Personal Portfolio</h3>
+	<h3 align="center">Nduta Kimani's Personal Portfolio</h3>
 	<p align="center">
 		This is the source code for my Personal Portfolio.
 		<br/>
 		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io"><strong>Explore the docs »</strong></a>
 		<br/>
 		<br/>
-		<a href="https://jayantgoel001.github.io/">View Demo</a>
-		·
-		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues/new?assignees=JayantGoel001&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
-		·
-		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
-	</p>
-	<p>
-		<img src="https://img.shields.io/github/contributors/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
-		<img src="https://img.shields.io/github/forks/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Forks"/> • 
-		<img src="https://img.shields.io/github/stars/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Stars"/> •
-		<img src="https://img.shields.io/github/issues/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Issues"/> •
-		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/JayantGoel001/JayantGoel001.github.io"/>
-	</p>
-	<p>
-		<img alt="Github Deployment Status" src="https://github.com/JayantGoel001/JayantGoel001.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
-		
+		<a href="">View Demo</a>
 </div>
 
 <br/>
@@ -553,4 +538,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
-Copyright &copy; 2021 Jayant Goel. All rights reserved. 
+Copyright &copy;Jkagunda-tech 2025. All rights reserved. 
